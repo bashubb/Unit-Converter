@@ -26,7 +26,7 @@ UnitConverter is a SwiftUI-based iOS app that allows you to convert various unit
 
 ## Screenshots 📸
 
-
+<img src="https://github.com/bashubb/Unit-Converter/blob/main/UnitConverter_preview.gif">
 
 ## License 📝
 
