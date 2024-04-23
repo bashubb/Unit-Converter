@@ -1,7 +1,6 @@
-<img src="https://github.com/bashubb/ScrollSampler-MacOS-version/blob/main/comming_soon_appSTOREICON.png" width="30%">
+<img src="https://github.com/bashubb/ScrollSampler-MacOS-version/blob/main/comming_soon_appSTOREICON.png" width="20%">
 
-UnitConverter
-=============
+<img src="https://github.com/bashubb/Unit-Converter/blob/main/Unit%20Converter.png" width="70%">
 
 UnitConverter is a SwiftUI-based iOS app that allows you to convert various units of measurement including temperature, distance, time, and volume.
 
