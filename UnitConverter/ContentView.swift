@@ -36,15 +36,16 @@ struct ContentView: View {
     var body: some View {
         NavigationStack {
             Form {
-              
-                Section("choose convertion") {
+                Section("Choose concertion") {
                     Picker("Choose convertion", selection: $choosenConvertion) {
                         ForEach(0..<conversions.count, id: \.self) {
                             Text(conversions[$0])
                         }
                     }
                     .pickerStyle(.segmented)
+                    .listRowBackground(Color.clear)
                 }
+                
                 
                 
                 Section("choose Units") {
